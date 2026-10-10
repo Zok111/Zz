@@ -1,0 +1,5 @@
+# Unofficial Pocket Option client (Rust core + Python bindings). Used READ-ONLY.
+binaryoptionstoolsv2==0.2.15
+pydantic==2.14.0
+pydantic-settings==2.15.0
+pytest==9.1.1
